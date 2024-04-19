@@ -1,2 +1,2 @@
-# R4K-Oil
+# OS-LIQUIDLEVEL
 LoRaWAN liquid level sensor
