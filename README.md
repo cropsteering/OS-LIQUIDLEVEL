@@ -1,2 +1,2 @@
 # R4K-Oil
-LoRaWAN Oil tank level sensor
+LoRaWAN liquid level sensor
